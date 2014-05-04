@@ -1,6 +1,6 @@
 // Multiply two matrices A * B = C
 
-#define _CRT_SECURE_NO_DEPRECATE
+//#define _CRT_SECURE_NO_DEPRECATE
 
 
 #include <stdlib.h>
